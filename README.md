@@ -1,4 +1,5 @@
 ## Wat: https://www.destroyallsoftware.com/talks/wat
+## Slides: https://docs.google.com/presentation/d/1EaHFVLpQbl3xGxsySenoWBRGCuXN3-CgKpwONx1PpzE/edit?usp=sharing
 
 ## Expectations:
 ### This mod is faster because you can go faster.
