@@ -58,3 +58,24 @@ footer {
   text-align: center;
   margin-top: 1em;
 }
+
+.cats-list {
+  text-align: center;
+}
+
+.cat-card {
+  height: 300px;
+  max-width: 600px;
+  margin: 0 auto;
+  border: 2px solid yellow;
+  border-radius: 1em;
+  margin-bottom: 1em;
+  padding: .5em;
+}
+
+.cat-card img{
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
+  float: left;
+}
